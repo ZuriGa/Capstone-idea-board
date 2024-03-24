@@ -1,6 +1,7 @@
-# (Application Name)
+# Sculptt Lab
 
-#### (Brief Description of Application)
+#### A fully-functioning website for a body sculpting business, this webpage showcases services offered, an about section for the business, a scheduling system, a contact information section, and Instagram feed for photos. 
+
 
 #### By Zuri Gallegos 👩🏾‍💻
 
@@ -9,13 +10,14 @@
 * _HTML_
 * _CSS_ 
 * _JavaScript_
-* _Bootstrap_
-* _Node_
-* _Webpack_
-* _ESLint_
-* _Babel_
+* _React_
+* _Vite_
+* _Tailwind CSS_
+
 
 ## Description
+Welcome to the README for our fully-functioning body sculpting business website! This webpage serves as a comprehensive platform showcasing our services, providing essential information about our business, offering a convenient scheduling system, and connecting with us through contact details. Additionally, we feature an Instagram feed to share captivating photos of our work.
+
 
 ## Setup/Installation Requirements ⚙️ 🖥️
 * _You can clone this repository, you can do this by going to this link <url>_
