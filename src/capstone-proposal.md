@@ -32,9 +32,9 @@ research on deployment and buying domain
 
 What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
-Netlify app, and GoDaddy 
+Netlify app, and GoDaddy, Instagram API
 
 Is there anything else you'd like your instructor to know?
 
-
+Nope :) 
 
