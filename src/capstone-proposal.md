@@ -36,5 +36,5 @@ Netlify app, and GoDaddy, Instagram API
 
 Is there anything else you'd like your instructor to know?
 
-Nope :) 
+Nope :] 
 
