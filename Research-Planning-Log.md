@@ -11,4 +11,4 @@
 * 8:15 - LeetCode Practice
 * 9:00 - Working on Cover Letters for internships
 * 10:00 - Appointment Booking Research -Google Calendar
-* 
+* 11:00 - Appointment Booking Research - Google Calendar
