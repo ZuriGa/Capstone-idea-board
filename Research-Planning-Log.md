@@ -9,4 +9,5 @@
 
 #### Tuesday 4/16
 * 8:15 - LeetCode Practice
+* 9:00 - Working on Cover Letters for internships
 * 
