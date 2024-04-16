@@ -5,3 +5,5 @@
 * 2:00 - Appointment Booking Research -Google Calendar
 * 3:00 - Appointment Booking Research -Google Calendar
 * 4:00 - Working on Cover Letters for internships
+* 5:00 - End of day
+
