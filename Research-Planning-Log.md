@@ -7,3 +7,6 @@
 * 4:00 - Working on Cover Letters for internships
 * 5:00 - End of day
 
+#### Tuesday 4/16
+* 8:15 - LeetCode Practice
+* 
