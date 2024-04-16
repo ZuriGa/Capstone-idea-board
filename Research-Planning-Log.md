@@ -13,3 +13,4 @@
 * 10:00 - Appointment Booking Research -Google Calendar
 * 11:00 - Appointment Booking Research - Google Calendar
 * 12:00 - Lunch
+* 1:00 - Appointment Booking Research - Google Calendar
