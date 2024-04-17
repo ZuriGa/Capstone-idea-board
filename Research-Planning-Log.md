@@ -17,3 +17,4 @@
 * 2:00 - Appointment Booking Research - Google Calendar
 * 3:00 - Appointment Booking Research - Google Calendar
 * 4:00 - Still stuck in research for appointments with google calendar
+* 5:00 - End of Day
