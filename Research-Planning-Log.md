@@ -27,3 +27,4 @@
 * 12:00 Lunch
 * 1:00 - Appointment booking research - google calendar
 * 2:00 - Implementing calendar API to project draft
+* 3:00 - Implementing calendar API to project draft
