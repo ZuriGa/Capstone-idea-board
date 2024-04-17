@@ -18,3 +18,6 @@
 * 3:00 - Appointment Booking Research - Google Calendar
 * 4:00 - Still stuck in research for appointments with google calendar
 * 5:00 - End of Day
+
+#### Wednesday 4/17
+* 8:15 - LeetCode Practice
