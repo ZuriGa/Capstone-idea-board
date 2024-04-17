@@ -21,3 +21,4 @@
 
 #### Wednesday 4/17
 * 8:15 - LeetCode Practice
+* 9:00 - Appointment Booking Research - Google Calendar
