@@ -28,3 +28,4 @@
 * 1:00 - Appointment booking research - google calendar
 * 2:00 - Implementing calendar API to project draft
 * 3:00 - Implementing calendar API to project draft
+* 4:00 - Stuck on calendar API - WIP
