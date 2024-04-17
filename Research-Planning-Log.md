@@ -25,3 +25,4 @@
 * 10:00 - Still stuck on google calendar
 * 11:00 - Google calendar api research 
 * 12:00 Lunch
+* 1:00 - Appointment booking research - google calendar
