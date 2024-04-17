@@ -23,3 +23,4 @@
 * 8:15 - LeetCode Practice
 * 9:00 - Appointment Booking Research - Google Calendar
 * 10:00 - Still stuck on google calendar
+* 11:00 - Google calendar api research 
