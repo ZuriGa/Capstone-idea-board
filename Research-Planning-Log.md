@@ -29,3 +29,4 @@
 * 2:00 - Implementing calendar API to project draft
 * 3:00 - Implementing calendar API to project draft
 * 4:00 - Stuck on calendar API - WIP
+* 5:00 - End of day
