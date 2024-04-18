@@ -37,3 +37,5 @@
 * 9:00 - Stuck on calendar API - WIP
 * 10:00 - Research Google calendar API
 * 11:00 - applying google api to draft
+* 12:00 Lunch
+* 1:00 - Styling page
