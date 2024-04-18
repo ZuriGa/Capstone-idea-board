@@ -39,3 +39,4 @@
 * 11:00 - applying google api to draft
 * 12:00 Lunch
 * 1:00 - Styling page
+* 2:00 - Styling Logo
