@@ -35,3 +35,4 @@
 #### Thursday 4/18
 * 8:15 - LeetCode Practice
 * 9:00 - Stuck on calendar API - WIP
+* 10:00 - Research Google calendar API
