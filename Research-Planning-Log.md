@@ -41,3 +41,4 @@
 * 1:00 - Styling page
 * 2:00 - Styling Logo
 * 3:00 - Styling page adding logo
+* 4:00 - Stuck on adding routes to new page
