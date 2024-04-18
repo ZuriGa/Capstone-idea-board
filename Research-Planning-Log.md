@@ -42,3 +42,4 @@
 * 2:00 - Styling Logo
 * 3:00 - Styling page adding logo
 * 4:00 - Stuck on adding routes to new page
+* 5:00 - End of Day
