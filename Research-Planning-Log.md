@@ -50,4 +50,5 @@
 * 11:00 - Consultation with client, first draft
 * 12:00 - Lunch
 * 1:00 - Updating about me section
+* 2:00 - refactoring instagram section
 
