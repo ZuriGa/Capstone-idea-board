@@ -47,3 +47,5 @@
 #### Friday 4/19
 
 * 10:00 - Working on Footer
+* 11 :00 Consultation with client, first draft
+
