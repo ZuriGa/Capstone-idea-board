@@ -43,3 +43,7 @@
 * 3:00 - Styling page adding logo
 * 4:00 - Stuck on adding routes to new page
 * 5:00 - End of Day
+
+#### Friday 4/19
+
+* 10:00 - Working on Footer
