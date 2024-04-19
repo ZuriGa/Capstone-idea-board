@@ -51,4 +51,5 @@
 * 12:00 - Lunch
 * 1:00 - Updating about me section
 * 2:00 - refactoring instagram section
+* 3:00 - refactoring instagram section
 
