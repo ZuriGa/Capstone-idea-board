@@ -52,4 +52,5 @@
 * 1:00 - Updating about me section
 * 2:00 - refactoring instagram section
 * 3:00 - refactoring instagram section
-
+* 4:00 - Break
+* 8:00 - Refactoring services section
