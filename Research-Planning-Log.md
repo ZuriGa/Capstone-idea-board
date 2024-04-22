@@ -64,3 +64,5 @@
 * 11:00 - Refactoring services section
 * 12:00 - Lunch
 * 1:00 - Interview Prep
+* 2:00 - Refactoring services section
+* 3:00 - 
