@@ -54,3 +54,9 @@
 * 3:00 - refactoring instagram section
 * 4:00 - Break
 * 8:00 - Refactoring services section
+
+
+#### Monday 4/22
+
+* 8:15 - Leetcode Practice
+* 9:00 - Refactoring services section
