@@ -76,3 +76,4 @@
 * 10:00 - Refactoring services section
 * 11:00 - Stuck at services section
 * 12:00 - Lunch
+* 1:00 - back to refactoring services section
