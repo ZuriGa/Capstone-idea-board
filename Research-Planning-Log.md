@@ -72,3 +72,4 @@
 #### Tuesday 4/23
 
 * 8:15 - Leetcode Practice
+* 9:00 - Refactoring services section
