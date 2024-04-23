@@ -79,4 +79,5 @@
 * 1:00 - back to refactoring services section
 * 2:00 - still refactoring services section
 * 3:00 - refactoring services section
-
+* 4:00 - finish services section
+* 5:00 - End of day
