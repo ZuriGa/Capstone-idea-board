@@ -74,3 +74,4 @@
 * 8:15 - Leetcode Practice
 * 9:00 - Refactoring services section
 * 10:00 - Refactoring services section
+* 11:00 - Stuck at services section
