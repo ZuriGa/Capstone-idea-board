@@ -81,3 +81,6 @@
 * 3:00 - refactoring services section
 * 4:00 - finish services section
 * 5:00 - End of day
+
+#### Wednesday 4/24
+* 8:15 - LeetCode Practice
