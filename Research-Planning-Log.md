@@ -91,3 +91,4 @@
 * 1:00 - Interview Prep
 * 2:00 - Back to refactoring Footer
 * 2:30 - Internet outage :(
+* 3:00 - refactoring footer section, Internet back on.
