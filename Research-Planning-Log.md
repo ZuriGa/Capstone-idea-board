@@ -84,3 +84,4 @@
 
 #### Wednesday 4/24
 * 8:15 - LeetCode Practice
+* 9:00 - refactoring footer
