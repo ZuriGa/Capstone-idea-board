@@ -89,3 +89,4 @@
 * 11:00 - Footer refactor still working on this
 * 12:00 - Lunch
 * 1:00 - Interview Prep
+* 2:00 - Back to refactoring Footer
