@@ -100,3 +100,6 @@
 #### Thursday 4/25
 * 8:15 - LeetCode practice 
 * 9:00 - Interview prep
+* 10:00 - Group Interview
+* 10:50 - back to refactoring footer
+*  
