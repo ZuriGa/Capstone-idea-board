@@ -105,3 +105,5 @@
 * 11:00 - Refactoring footer
 * 12:00 - Lunch
 * 1:00 - Back to refactoring footer 
+* 2:00 - still working on footer
+* 3:00 - still working on footer
