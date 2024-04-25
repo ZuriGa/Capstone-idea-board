@@ -94,4 +94,9 @@
 * 3:00 - refactoring footer section, Internet back on.
 * 3:45 - Career services meeting
 * 4:20 - back to refactoring footer
-* 5:00 - End of day
+* 5:00 - End of day.
+
+
+#### Thursday 4/25
+* 8:15 - LeetCode practice 
+* 9:00 - Interview prep
