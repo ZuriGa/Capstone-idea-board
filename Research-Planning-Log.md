@@ -107,3 +107,4 @@
 * 1:00 - Back to refactoring footer 
 * 2:00 - still working on footer
 * 3:00 - still working on footer
+* 4:00 - WIP footer
