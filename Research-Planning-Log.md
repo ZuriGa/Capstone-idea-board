@@ -108,3 +108,4 @@
 * 2:00 - still working on footer
 * 3:00 - still working on footer
 * 4:00 - WIP footer
+* 5:00 - End of day
