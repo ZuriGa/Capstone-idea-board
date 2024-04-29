@@ -122,3 +122,4 @@
 * 1:00 - Back to refactoring calendar component
 * 2:00 - Refactoring Contact form
 * 3:00 - refactoring contact form 
+* 4:00 - Stuck on contact form 
