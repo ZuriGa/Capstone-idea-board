@@ -117,3 +117,4 @@
 * 9:00 - stuck on white-boarding prompt
 * 9:50 - refactoring the footer
 * 10:00 - refactoring footer
+* 11:00 - refactoring calendar component
