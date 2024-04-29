@@ -109,3 +109,8 @@
 * 3:00 - still working on footer
 * 4:00 - WIP footer
 * 5:00 - End of day
+
+
+#### Monday 4/29
+
+* 8:15 - Leetcode Practice
