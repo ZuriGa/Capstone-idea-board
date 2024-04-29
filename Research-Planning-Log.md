@@ -115,3 +115,4 @@
 
 * 8:15 - Leetcode Practice
 * 9:00 - stuck on white-boarding prompt
+* 9:50 - refactoring the footer
