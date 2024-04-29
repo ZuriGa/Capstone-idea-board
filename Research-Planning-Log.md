@@ -114,3 +114,4 @@
 #### Monday 4/29
 
 * 8:15 - Leetcode Practice
+* 9:00 - stuck on white-boarding prompt
