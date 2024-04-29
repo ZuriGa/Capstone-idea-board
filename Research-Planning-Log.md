@@ -119,3 +119,4 @@
 * 10:00 - refactoring footer
 * 11:00 - refactoring calendar component
 * 12:00 - lunch
+* 1:00 - Back to refactoring calendar component
