@@ -135,3 +135,4 @@
 * 12:00 - Lunch.
 * 1:00 - Back to refactoring contact form
 * 2:00 - Moving to stretch goal of adding carousel of photos to instagram
+* 3:00 - still refactoring carousel
