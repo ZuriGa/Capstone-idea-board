@@ -123,3 +123,4 @@
 * 2:00 - Refactoring Contact form
 * 3:00 - refactoring contact form 
 * 4:00 - Stuck on contact form 
+* 5:00 - End of day
