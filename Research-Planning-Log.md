@@ -137,3 +137,4 @@
 * 2:00 - Moving to stretch goal of adding carousel of photos to instagram
 * 3:00 - still refactoring carousel
 * 4:00 - Playing around with sizes of carousel
+* 5:00 - End of day
