@@ -124,3 +124,8 @@
 * 3:00 - refactoring contact form 
 * 4:00 - Stuck on contact form 
 * 5:00 - End of day
+
+
+#### Tuesday 4/30
+
+* 8:15 - Leetcode Practice
