@@ -138,3 +138,7 @@
 * 3:00 - still refactoring carousel
 * 4:00 - Playing around with sizes of carousel
 * 5:00 - End of day
+
+
+#### Wednesday 5/1
+* 8:15 - LeetCode Practice
