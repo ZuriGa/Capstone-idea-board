@@ -144,3 +144,4 @@
 * 8:15 - LeetCode Practice
 * 9:00 - still refactoring carousel
 * 10:00 - still on carousel 
+* 11:00 - updating footer
