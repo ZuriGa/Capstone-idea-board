@@ -146,3 +146,5 @@
 * 10:00 - still on carousel 
 * 11:00 - updating footer
 * 12:00 - Lunch
+* 1:00 - refactor footer information
+* 2:00 - stuck on DOM error
