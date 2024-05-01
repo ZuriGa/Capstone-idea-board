@@ -149,3 +149,4 @@
 * 1:00 - refactor footer information
 * 2:00 - stuck on DOM error
 * 3:00 - Break - still stuck on error DOM
+* 4:00 - still stuck at DOM error
