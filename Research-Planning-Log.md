@@ -143,3 +143,4 @@
 #### Wednesday 5/1
 * 8:15 - LeetCode Practice
 * 9:00 - still refactoring carousel
+* 10:00 - still on carousel 
