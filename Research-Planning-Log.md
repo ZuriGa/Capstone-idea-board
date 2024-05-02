@@ -160,3 +160,4 @@
 * 11:00 - deploying site
 * 12:00 - Lunch
 * 1:00 - back to debugging services
+* 2:00 - moving onto READme page
