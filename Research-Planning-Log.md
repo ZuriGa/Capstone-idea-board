@@ -157,3 +157,5 @@
 * 8:20 - leetcode practice
 * 9:00 - stuck on DOM Error
 * 10:00 - still stuck on DOM error
+* 11:00 - deploying site
+* 12:00 - Lunch
