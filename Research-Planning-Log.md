@@ -161,3 +161,4 @@
 * 12:00 - Lunch
 * 1:00 - back to debugging services
 * 2:00 - moving onto READme page
+* 3 :00 - forgot to commit for 2 but still stuck on read me page
