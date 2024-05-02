@@ -151,3 +151,7 @@
 * 3:00 - Break - still stuck on error DOM
 * 4:00 - still stuck at DOM error
 * 5:00 - End of day
+
+
+#### Thursday 5/2
+* 8:20 - leetcode practice
