@@ -159,3 +159,4 @@
 * 10:00 - still stuck on DOM error
 * 11:00 - deploying site
 * 12:00 - Lunch
+* 1:00 - back to debugging services
